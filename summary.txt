@@ -1,0 +1,6 @@
+CosmoEmulator-NN results
+========================
+Training set   : 48,000 points from 1200 CPL dark-energy models
+Held-out RMS   : 14.25 mmag (max 182.08 mmag)
+Speed-up       : 35x over 3,000 likelihood evaluations
+Numerical time : 0.143s | Emulator time: 0.0041s
