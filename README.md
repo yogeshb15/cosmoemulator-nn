@@ -49,5 +49,4 @@ Python · NumPy · SciPy · scikit-learn (MLPRegressor) · Matplotlib
 
 All rights reserved — see [LICENSE](LICENSE). This repository is shared publicly to demonstrate the work; it is not open source, and no use (including research or academic use) is permitted without written permission.
 
----
-*Part of a cosmology + ML portfolio by Yogesh Bhardwaj — PhD (Applied Mathematics), Delhi Technological University. [LinkedIn](https://www.linkedin.com/in/yogesh-bhardwaj-23069120a/) · [GitHub](https://github.com/yogeshb15)*
+- by Yogesh Bhardwaj — PhD (Applied Mathematics), Delhi Technological University. [LinkedIn](https://www.linkedin.com/in/yogesh-bhardwaj-23069120a/) · [GitHub](https://github.com/yogeshb15)*
